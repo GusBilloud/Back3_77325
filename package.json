@@ -1,0 +1,26 @@
+{
+  "name": "back3_77325",
+  "version": "1.0.0",
+  "description": "Back3-coder",
+  "homepage": "https://github.com/GusBilloud/Back3_77325#readme",
+  "bugs": {
+    "url": "https://github.com/GusBilloud/Back3_77325/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GusBilloud/Back3_77325.git"
+  },
+  "license": "MIT",
+  "author": "Gustavo Billoud",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.0.3",
+    "commander": "14.0.3"
+  }
+}
